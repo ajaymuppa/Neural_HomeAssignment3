@@ -1,4 +1,8 @@
 # Neural_HomeAssignment3
+
+*Student Name:* AJAY MUPPA  
+*Student ID:* 700769264
+
 ## 📚 Overview
 
 This project consists of five NLP and deep learning tasks, implemented using Python, TensorFlow, NLTK, spaCy, and HuggingFace Transformers. Each task explores different concepts in modern NLP pipelines, from sequence generation using LSTMs to sentiment analysis with pre-trained transformers.
