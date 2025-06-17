@@ -8,9 +8,9 @@ Original file is located at
 
 Home Assignment - 3
 
-Student Name: SAI SRAVAN CHINTALA
+Student Name: AJAY MUPPA
 
-Student ID: 700773836
+Student ID: 700769264
 
 Q1: Implementing an RNN for Text Generation
 
